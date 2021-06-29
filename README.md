@@ -1,6 +1,6 @@
 # Near-field project documentation
 
-This documentation is based on Sphinx + GitHub + ReadtheDocs, see the [official documentation](https://github.com/readthedocs/sphinx_rtd_theme) for details.
+This documentation is based on Sphinx + GitHub + ReadtheDocs, see the [official documentation](https://github.com/readthedocs/sphinx_rtd_theme) for details. The generated online documentation is [here](https://nearfield.readthedocs.io/en/latest/).
 
 ## Get source file
 * Run `git clone git@github.com:necoxt/NearField.git`.
