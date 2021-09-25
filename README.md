@@ -15,3 +15,7 @@ This documentation is based on Sphinx + GitHub + ReadtheDocs, see the [official 
 
 ## Edit with VSCode
 Check this [website](https://docs.restructuredtext.net/index.html) for instructions.
+
+## Helpful resources
+* [Quick reStructuredText](https://docutils.sourceforge.io/docs/user/rst/quickref.html).
+* [Sublime and sphinx guide](https://sublime-and-sphinx-guide.readthedocs.io/en/latest/images.html)
